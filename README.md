@@ -5,8 +5,9 @@
 
 - 🌱 I’m currently learning **Natural Language Processing (NLP) and applications of Large Language Models (LLMs).**
 
-- 💬 Ask me about **AI in education.**
+- 🧪 I have experience in **designing and developing science learning apps and simulations**.
 
+- 💬 Ask me about **technology and AI in education**. 
 <p align="center">
   
 [![harrycslau's GitHub | Languages](https://stats.quira.sh/harrycslau/languages-over-time?theme=light)](https://quira.sh?utm_source=widgets&utm_campaign=harrycslau)
