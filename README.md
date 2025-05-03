@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, this is Harry Lau.</h1>
 <h3 align="center">Doctoral Researcher | Science Educator | AI/ML Engineer</h3>
 
-- 🔭 I’m currently working on **data analytics in a learning platform.**
+- 🔭 I’m currently working on **log data analytics and data-driven adaptive feedback in a learning platform.**
 
 - 🌱 I’m currently learning **Natural Language Processing (NLP) and applications of Large Language Models (LLMs).**
 
-- 🧪 I have experience in **designing and developing science learning apps and simulations**.
+- 🧪 I have experience in **designing and developing science and language learning apps**.
+
+- 🧪 I taught **AI for school teachers** at the university.
 
 - 💬 Ask me about **technology and AI in education**. 
 <p align="center">
