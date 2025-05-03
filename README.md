@@ -7,7 +7,7 @@
 
 - 🧪 I have experience in **designing and developing science and language learning apps**.
 
-- 🧪 I taught **AI for school teachers** at the university.
+- 👨‍🏫 I taught **AI for school teachers** at the university.
 
 - 💬 Ask me about **technology and AI in education**. 
 <p align="center">
