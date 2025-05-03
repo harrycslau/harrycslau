@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, this is Harry Lau.</h1>
-<h3 align="center">Doctoral Researcher | Science Educator | AI Engineer</h3>
+<h3 align="center">Doctoral Researcher | Science Educator | AI/ML Engineer</h3>
 
 - 🔭 I’m currently working on **data analytics in a learning platform.**
 
